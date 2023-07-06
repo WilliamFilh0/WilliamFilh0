@@ -4,7 +4,11 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571985236965)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamfilho8908@gmail.com)
 
-![William Filho GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamFilh0&show_icons=true&theme=dracula)
+<div>
+   <a href="https://github.com/WilliamFilh0">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamFilh0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFilh0&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
