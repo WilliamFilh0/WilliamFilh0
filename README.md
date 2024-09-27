@@ -1,5 +1,4 @@
-### Olá! Eu sou William Filho ✋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C16F7&width=435&lines=Ol%C3%A1!+Eu+sou+William+Filho+%E2%9C%8B)](https://git.io/typing-svg)
 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamfilho8908@gmail.com)
@@ -10,7 +9,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamFilh0&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-## Tecnologias que eu uso no meu dia
+<h2 style="font-size: 18px;">Tecnologias que utilizo diariamente</h2>
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
